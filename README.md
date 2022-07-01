@@ -8,9 +8,9 @@ This repo hosts the latest versions of Pypy that will run scientific stack just 
 ## Installation
 
 ```bash
-wget https://github.com/Helio-Additive/scipypy/releases/download/latest/latest-linux.tar.gz
+wget https://github.com/Helio-Additive/scipypy/releases/download/latest/latest-linux64.tar.gz
 #OR
-curl -LJO https://github.com/Helio-Additive/scipypy/releases/download/latest/latest-linux.tar.gz
+curl -LJO https://github.com/Helio-Additive/scipypy/releases/download/latest/latest-linux64.tar.gz
 
 #Installation on Linux
 tar -xzvf latest-linux.tar.gz pypy/
